@@ -136,3 +136,6 @@ dmypy.json
 
 #Add for data
 data/*
+
+# Add for mac
+.DS_Store
