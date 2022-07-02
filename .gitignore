@@ -133,3 +133,6 @@ dmypy.json
 *.csv
 *.mhd
 *.raw
+
+#Add for data
+data/*
